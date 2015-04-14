@@ -9,9 +9,6 @@ alias cp='cp -r'
 alias rm='rm -r'
 alias cdh='cd /cygdrive/c/home'
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/opt/bin:/mingw64/bin:/mingw32/bin"
-
-
 autoload -U compinit
 compinit
 
